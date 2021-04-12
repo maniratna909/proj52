@@ -1,0 +1,26 @@
+menu{
+    display: flex;
+    color:bisque;
+    color:rgb(255, 193, 118);
+    background-blend-mode: lighten;
+    font-family: fantasy;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
+h1{
+ font-size: 49px;
+ font:bolder;
+ font-family: "Times New Roman";
+ color:rgb(247, 72, 41);
+
+}
+
+.footer{
+ background-color:rgb(221, 82, 32);
+}
+p1{
+  color: rgb(183, 185, 34);
+  text-align: right;
+  
+}
